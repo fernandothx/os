@@ -6,10 +6,10 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'mysql.hostinger.com.br'; 
-$db['default']['username'] = 'u255479692_thx';
-$db['default']['password'] = '772697';
-$db['default']['database'] = 'u255479692_os';
+$db['default']['hostname'] = 'localhost'; 
+$db['default']['username'] = 'root';
+$db['default']['password'] = 'root';
+$db['default']['database'] = 'os';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;
